@@ -1,0 +1,19 @@
+.container{
+	max-width: none; ; width: 100%; background-color: green;
+	max-height: none; height: 100%;
+	position: absolute;
+}
+
+/*.header{
+	max-width: none; width: 100%;
+	width: 100%;
+	height: 150px;
+	background-color: green;
+}*/
+div[class*="col-"]{
+	border: 1px solid black;
+	color: black;
+}
+.footer{
+	width: 100%
+}
